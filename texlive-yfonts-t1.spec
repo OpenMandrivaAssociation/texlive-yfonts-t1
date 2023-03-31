@@ -1,6 +1,6 @@
 Name:		texlive-yfonts-t1
 Version:	36013
-Release:	1
+Release:	2
 Summary:	Old German-style fonts, in Adobe type 1 format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yfonts-t1
