@@ -3,7 +3,7 @@ Version:	36013
 Release:	2
 Summary:	Old German-style fonts, in Adobe type 1 format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yfonts-t1
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yfonts-t1
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yfonts-t1.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yfonts-t1.doc.r%{version}.tar.xz
